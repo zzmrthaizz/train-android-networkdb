@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1393301469 source:/home/thai/Desktop/Thai/ThuMucoop/main.cpp
+	<iostream>
+	"Folder.h"
+	"File.h"
+
+1393301316 source:/home/thai/Desktop/Thai/ThuMucoop/src/File.cpp
+	"File.h"
+
+1393300576 /home/thai/Desktop/Thai/ThuMucoop/include/File.h
+	"Unit.h"
+
+1393300953 /home/thai/Desktop/Thai/ThuMucoop/include/Unit.h
+	<iostream>
+
+1393298013 source:/home/thai/Desktop/Thai/ThuMucoop/src/Unit.cpp
+	"Unit.h"
+
+1393301693 source:/home/thai/Desktop/Thai/ThuMucoop/src/Folder.cpp
+	"Folder.h"
+	"File.h"
+
+1393301228 /home/thai/Desktop/Thai/ThuMucoop/include/Folder.h
+	"Unit.h"
+
